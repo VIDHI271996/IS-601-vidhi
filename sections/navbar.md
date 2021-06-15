@@ -1,7 +1,7 @@
 # Navigation
 
 
-* [Home](/content/index.md)
+* [Home](/index.md)
 * [What is Internet?](/content/internet.md)
 * [The History of the Internet](/content/history.md)
 * [The story of Internet](/content/story.md)
