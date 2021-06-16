@@ -15,7 +15,9 @@
 What layout will you use
 
 ### Page Content
-Link to another markdown document with the page content
+
+Sometimes we wonder how information is being share from one device to another. This is because of Internet, system which allows information to be shared between devices through binary information.
+
 
 
 
