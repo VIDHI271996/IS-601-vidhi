@@ -57,9 +57,9 @@ Link to another Page
 
 ### Page Image:
 
-Page Image Link: 
+Page Image Link: [image](https://defaeroreport.com/wp-content/uploads/2016/10/695804.jpg)
 
-Page Image Alt attribute: 
+Page Image Alt attribute: first manmade satellite “The Sputlink”
 
 
 ### Keywords
