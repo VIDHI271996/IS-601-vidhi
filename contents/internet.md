@@ -10,11 +10,9 @@
 
 ### Description
 
-Internet is made of large number of independently operated networks. Goal of these operators / service provider is to provide the end-to-end connectivity between two workstations to transfer the data.
-
-
 
 ### Page Layout
+
 
 ### Page Content
 
@@ -30,4 +28,5 @@ Page Image Alt attribute:
 
 
 ### Keywords
-Internet,TCP/IP, ARPANET
+
+
