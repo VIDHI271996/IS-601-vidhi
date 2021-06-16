@@ -5,7 +5,7 @@
 
 ### Authors
 
-Vidhi Patel - [github](https://github.com/vkpnjit)
+Vidhi Patel - [github](https://github.com/vkp8njit/IS-601-vidhi)
 
 Keerthana Premkumar -[github]()
 
