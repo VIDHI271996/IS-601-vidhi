@@ -12,10 +12,12 @@
 
 
 ### Page Layout
-What layout will you use
+
 
 ### Page Content
-Link to another markdown document with the page content
+
+One of the reason Internet became so popular and widely acceptable is due to invention of Internet browsers. These web browsers opened a gateway for people to access various site that were easy to use and interactive.
+
 
 
 
