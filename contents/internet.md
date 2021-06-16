@@ -24,7 +24,7 @@ We will be using the Z Pattern layout for this webpage.
 
 Link to another page
 
-[TCP/IP Protocol](protocol.md)
+[TCP / IP Protocol](protocol.md)
 
 
 
