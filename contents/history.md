@@ -8,12 +8,11 @@
 ## Page Title
 
 
-### Description
-
-Not Decided 
+### Description 
 
 
 ### Page Layout
+
 
 ### Page Content
 
@@ -29,4 +28,3 @@ Page Image Alt attribute:
 
 
 ### Keywords
-Not Decided
