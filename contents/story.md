@@ -59,7 +59,7 @@ Link to another page
 
 ### Page Image:
 
-Page Image Link: [image](https://noware.tech/wp-content/uploads/sites/140/2017/07/img1.jpg)[image](https://pbs.twimg.com/media/EBImM7yX4AEovrG.jpg)
+Page Image Link: [image](https://noware.tech/wp-content/uploads/sites/140/2017/07/img1.jpg)  [image](https://pbs.twimg.com/media/EBImM7yX4AEovrG.jpg)
 
 Page Image Alt attribute: Browser War 
 
