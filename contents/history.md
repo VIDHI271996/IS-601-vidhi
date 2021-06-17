@@ -12,7 +12,7 @@ The History of Internet
 
 The Internet is the most defining technology of our time. It is a historical revolution in communications for the human race that is changing the world.  
 
-Question comes up now that how did it get started and who built this essential tool for us?
+###### Question comes up now that how did it get started and who built this essential tool for us?
 
 •	After Russia launched the first manmade satellite “The Sputlink”, Americans realized they have to progress further in growing scientific and technology field. 
 
@@ -20,7 +20,7 @@ Question comes up now that how did it get started and who built this essential t
 
 •	There was also worry on what would happen if nation was under attack and nation’s phone lines were damaged. In this case America will be without any communications. 
 
-Timeline of the Invention
+###### Timeline of the Invention
 
 •	1965 – Scientist Joseph Licklider proposed a solution where computers could talk to one another. This would allow government organizations to communicate with each other even though the telephone systems were destroyed.
 
