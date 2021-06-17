@@ -33,9 +33,13 @@ One of the reason Internet became so popular and widely acceptable is due to inv
 Search engine is an Internet program which provides users a various web pages or links based on the keyword they searched for. This is basically Internet directory which guides user to a website based on content they are looking for.
 
 •	Yahoo – Started by David Filo and Jerry Yang in 1994. Initially this was just a list of websites available and assigned in a category for other users on the Internet to explore. 
+
 •	Excite – Started by group of Stanford graduates. Idea behind this search engine was to provide better result based on the keyword relation to user query. 
-•	Yahoo started advertising on their website which generated revenue and started the digital marketing trend. 
+
+•	Yahoo started advertising on their website which generated revenue and started the digital marketing trend.
+
 •	Google – Larry Page and Sergey Brin started working on a search engine that would utilize backlinks for search. It would consider sites that people visited many times and from they were coming to consider the trustworthy. 
+
 •	Overture – Previously known as Goto.com was the first company to provide the Pay-per-Click search services. 
 
 Search engines have come a long way since they were developed. Modern search engines are using complex algorithms, artificial intelligence and machine learning to provide the better and accurate search results. 
